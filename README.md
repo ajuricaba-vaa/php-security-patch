@@ -139,6 +139,6 @@ Complemente com limite de memória por container/cgroup, limite de tamanho de re
 
 ## Licença
 
-[MIT](LICENSE) © José Ajuricaba Brito da Costa e Silva — [@ajuricabacosta](https://www.linkedin.com/in/ajuricabacosta) · [ajuricaba.net](https://ajuricaba.net)
+[MIT](LICENSE) © José Ajuricaba Brito da Costa e Silva — [@ajuricabacosta](https://www.linkedin.com/in/ajuricabacosta) 
 
 Sugestões, correções e relatos de teste são bem-vindos via Issues e Pull Requests.
